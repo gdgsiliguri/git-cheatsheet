@@ -1,26 +1,24 @@
+<div><a href="#" target="_blank"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a><a href="#" target="_blank"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a></div>
+
+
+
 <p align="center">
-    <img src="Images/desktop-icon.png" alt="Logo" width="150" height="150">
+    <img src="Images/git-logo.png" alt="Logo" height="60">
 <h4 align="center">Git-Cheatsheet</h4></p>
 
-<p><p align="center">Created by -<img src="Images/gdg-logo-trans.png" alt="GDG-LOGO" width="50" height="25" float="right"> GDG Siliguri Open-Source community</p></p>
+---
 
-___
-
-<a><img src="Images/output-onlinepngtools.png" alt="GDG-LOGO" width="80" height="30"></a>
-
-<a href="https://opencollective.com/shields/sponsor/0/website" target="_blank"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
-
-<a href="https://opencollective.com/shields/sponsor/0/website" target="_blank"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a>
+Created by:    <img src="Images/gdg-logo-trans.png" alt="GDG-LOGO" width="40px"> <b>GDG Siliguri Open-Source Community</b>
 
 
 
-**What is Github?**:thinking: :syringe:
+#### What is Git?​ :thinking::syringe:
 
-GitHub is a Git repository hosting service, but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. It also provides access control and several collaboration features, such as a wikis and basic task management tools for every project.:pill:
+Git is a version-control tool by which you can work in any project with teams and it will store the history and checkpoints of all the changes you are making in that project. So if you are facing any issue in current version of your project, using Git you can restore to previous stable version. Git is an essential tool for open-source contribution and any development area. :pill:
 
-___
 
-**How to Install** :inbox_tray::gem:
+
+#### How to Install Git? :inbox_tray::gem:
 
 GitHub provides desktop clients that include a graphical:chart_with_upwards_trend: user interface for the most common repository actions and an automatically updating command line edition of Git for advanced scenarios.:beginner:
 
@@ -108,7 +106,7 @@ ___
 
    5.   Click **Commit changes** button:computer:
 
-      
+​      
 
 ___
 
