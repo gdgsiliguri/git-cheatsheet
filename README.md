@@ -4,7 +4,7 @@
 
 <p align="center">
     <img src="Images/git-logo.png" alt="Logo" height="60">
-<h4 align="center">Git-Cheatsheet</h4></p>
+<h3 align="center">Git-Cheatsheet</h3></p>
 
 ---
 
