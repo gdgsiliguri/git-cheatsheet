@@ -1,4 +1,4 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)  [![Open Source Love](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/ellerbrock/open-source-badges/)                                                    
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)  [![Open Source Love](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)                                                    
 
 
 
@@ -11,7 +11,6 @@
 Created by: <img src="Images/gdg-logo-trans.png" alt="GDG-LOGO" width="35px"> GDG Siliguri Open-Source Community
 
 <p><br /></p>
-
 ## What is Git?​ :thinking::syringe:
 
 
