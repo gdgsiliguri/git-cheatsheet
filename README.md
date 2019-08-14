@@ -5,7 +5,6 @@
 <p align="center">
     <img src="Images/git-logo.png" alt="Logo" height="60">
 <h4 align="center">Git-Cheatsheet</h4></p>
-
 ***
 
 Created by: <img src="Images/gdg-logo-trans.png" alt="GDG-LOGO" width="35px"> GDG Siliguri Open-Source Community
@@ -21,11 +20,47 @@ Git is a version-control tool by which you can work in any project with teams an
 
 #### How to Install Git? :inbox_tray::gem:
 
-GitHub provides desktop clients that include a graphical:chart_with_upwards_trend: user interface for the most common repository actions and an automatically updating command line edition of Git for advanced scenarios.:beginner:
+* **Git for Windows and Mac:**
+
+  -Go to [Git-SCM](https://git-scm.com/) :beginner:
+
+  -Go to Downloads
+
+  -Download for windows or mac whichever os you are using
+
+  -Install that downloaded file
+
+  
+
+* **Git for Debian:**
+
+  -Go to terminal
+
+  -Use this command
+
+  ```
+  sudo apt-get install git
+  ```
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ___
 
-**GitHub for Windows**
+
 
 [GitHub Desktop](https://windows.github.com "GitHub Windows"):rocket:
 
@@ -48,6 +83,8 @@ ___
 [Git](https://git-scm.com "Git")
 
 ___
+
+
 
 **What is a repository** :anchor::checkered_flag:
 
