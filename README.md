@@ -1,4 +1,4 @@
-<div><a href="#" target="_blank"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a><a href="#" target="_blank"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a></div>
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)[![Open Source Love](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/ellerbrock/open-source-badges/)
 
 
 
