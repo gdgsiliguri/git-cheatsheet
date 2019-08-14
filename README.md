@@ -14,6 +14,8 @@ Created by: <img src="Images/gdg-logo-trans.png" alt="GDG-LOGO" width="35px"> GD
 
 ## What is Git?​ :thinking::syringe:
 
+
+
 Git is a version-control tool by which you can work in any project with teams and it will store the history and checkpoints of all the changes you are making in that project. So if you are facing any issue in current version of your project, using Git you can restore to previous stable version. Git is an essential tool for open-source contribution and any development area. :pill:
 
 
@@ -182,7 +184,7 @@ Configure user information for all local repositories
 
 * $ git config --global color.ui auto:space_invader:
 
-  > Enables helpful colorization of command line output 
+  > Enables helpful colorization of command line output
 
 ___
 
