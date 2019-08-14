@@ -5,7 +5,7 @@
 <p align="center">
     <img src="Images/git-logo.png" alt="Logo" height="60">
 <h4 align="center">Git-Cheatsheet</h4></p>
-***
+----
 
 Created by: <img src="Images/gdg-logo-trans.png" alt="GDG-LOGO" width="35px"> GDG Siliguri Open-Source Community
 
