@@ -5,7 +5,6 @@
 <p align="center">
     <img src="Images/git-logo.png" alt="Logo" height="60">
 <h3 align="center">Git-Cheatsheet</h3></p>
-
 ---
 
 Created by: <img src="Images/gdg-logo-trans.png" alt="GDG-LOGO" width="32px">  <b>GDG Siliguri Open-Source Community</b>
@@ -44,17 +43,40 @@ Git is a version-control tool by which you can work in any project with teams an
   sudo apt-get install git
   ```
 
-  
 
+<br>
 
+## Check git version 
 
+Use the following command in the bash or terminal.
 
+```
+git --version
+```
 
+<br>
 
+## Configuration 
 
+Use the following command to configure email and username.
 
+```
+git config --global user.email "<YOUR MAIL HERE>"
+git config --global user.name "<YOUR USERNAME HERE>"
+```
 
+Use the following command to check other configurations.
 
+```
+git config --list
+git config <SELECT A SPECIFIC CONFIGURATION FROM LIST LIKE "user.email">
+```
+
+Use the following command to set a specific configuration.
+
+```
+git config --global <SELECT A SPECIFIC CONFIGURATION FROM LIST LIKE "user.email"> <VALUE>
+```
 
 
 
