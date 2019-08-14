@@ -8,7 +8,7 @@
 
 ---
 
-Created by: <img src="Images/gdg-logo-trans.png" alt="GDG-LOGO" width="35px"> GDG Siliguri Open-Source Community
+Created by: <img src="Images/gdg-logo-trans.png" alt="GDG-LOGO" width="32px">  <b>GDG Siliguri Open-Source Community</b>
 
 <p><br /></p>
 
@@ -18,9 +18,9 @@ Created by: <img src="Images/gdg-logo-trans.png" alt="GDG-LOGO" width="35px"> GD
 
 Git is a version-control tool by which you can work in any project with teams and it will store the history and checkpoints of all the changes you are making in that project. So if you are facing any issue in current version of your project, using Git you can restore to previous stable version. Git is an essential tool for open-source contribution and any development area. :pill:
 
+<br>
 
-
-#### How to Install Git? :inbox_tray::gem:
+## How to Install Git? :inbox_tray::gem:
 
 * **Git for Windows and Mac:**
 
