@@ -20,7 +20,7 @@ Git is a version-control tool by which you can work in any project with teams an
 
 <br>
 
-## How to Install Git? :inbox_tray::gem:
+## How to Install Git? :inbox_tray::computer:
 
 * **Git for Windows and Mac:**
 
@@ -34,16 +34,33 @@ Git is a version-control tool by which you can work in any project with teams an
 
   
 
-* **Git for Debian:**
+* **Git for Debian, Ubuntu and Mint:**
 
-  -Go to terminal
-
-  -Use this command
+  -In terminal type the following commands
 
   ```
-  sudo apt-get install git
+  # sudo apt update
+  # sudo apt install git
   ```
 
+
+* **Git for RHEL, CentOS and Frdora:**
+
+  -In terminal type the following commands
+
+  ```
+  # sudo yum update
+  # sudo yum install git
+  ```
+
+
+* **Git for Arch:**
+
+  -In terminal type the following commands
+
+  ```
+  # sudo pacman -S git
+  ```
 
 <br>
 
@@ -57,7 +74,7 @@ git --version
 
 <br>
 
-## Configuration :gem:
+## Configuration :wrench:
 
 Use the following command to configure email and username.
 
@@ -146,7 +163,7 @@ git mv <PREVIOUS-FILENAME.EXTENSION> <DIRECTORY-NAME>/<NEW-FILENAME.EXTENSION>
 
 <br>
 
-## Initializing Git:milky_way:
+## Initializing Git :page_with_curl:
 
 ```
 git init
@@ -172,7 +189,7 @@ git add "*.<EXTENSION>"      (for adding all simmilar file)
 
 <br>
 
-## Committing files:mandarin:
+## Committing files:bookmark_tabs:
 
 ```
 git commit -m "<MESSAGE>"   (staging area to repository)
