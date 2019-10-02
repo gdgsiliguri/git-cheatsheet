@@ -16,7 +16,7 @@ Created by: <img src="Images/gdg-logo-trans.png" alt="GDG-LOGO" width="32px">  <
 
 
 
-Git is a version-control tool by which you can work in any project with teams and it will store the history and checkpoints of all the changes you are making in that project. So if you are facing any issue in current version of your project, using Git you can restore to previous stable version. Git is an essential tool for open-source contribution and any development area. :pill:
+Git is a distributed version-control tool by which you can work in any project with teams and it will store the history and checkpoints of all the changes you are making in that project. So if you are facing any issue in current version of your project, using Git you can restore to previous stable version. Git is an essential tool for open-source contribution and any development area. :pill:
 
 <br>
 
@@ -32,7 +32,7 @@ Git is a version-control tool by which you can work in any project with teams an
 
   -Install that downloaded file
 
-  
+
 
 * **Git for Debian:**
 
@@ -246,7 +246,13 @@ Go to another branch
 git checkout branchName
 ```
 
-View all branches 
+Create and go to that created branch
+
+```
+git checkout -b <BRANCH-NAME>
+```
+
+View all branches
 
 ```
 git branch
@@ -258,7 +264,7 @@ Merge branchs
 git branch branchName
 ```
 
-Delete branch 
+Delete branch
 
 ```
 git branch -d branchName
